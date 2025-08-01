@@ -1,6 +1,6 @@
 # Simple Calculator Program with Dynamic Handling of Integers and Floats
 
-# Asking the user for inputs
+# Asking the user for inputs.
 num1 = input("Enter the first number (integer or float): ")
 num2 = input("Enter the second number (integer or float): ")
 
